@@ -1,6 +1,6 @@
 cask "floe" do
-  version "0.2.0"
-  sha256 "7ce5d4107ed3e23571d4cbbc7cde7c2cb7fd4f38ab29828b726574a38b9d936b"
+  version "0.2.1"
+  sha256 "6f5c1b70826e1c451d0a39d9a56ffde97aef0062d1c88bf8a6e454611bdad693"
 
   url "https://github.com/CyberIce2077/floe/releases/download/v#{version}/Floe-#{version}.zip"
   name "Floe"
